@@ -307,6 +307,10 @@ a:hover {
   border-left: 3px solid var(--color-accent);
 }
 
+.price-card .product-name {
+  font-size: 1.15rem;
+}
+
 /* Showcase Grid */
 .showcase-container {
   margin-top: 1rem;
